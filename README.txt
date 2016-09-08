@@ -10,10 +10,10 @@ More details about the network model can be found in:
 
 OVERVIEW: 
 
+This model is meant to represent the activity of cortical neurons in visual cortex (area V1) in response to changing stimuli. It enables to explore the effect of different connectivity and dynamics on the neural activity leading to visual perception and image tracking.
+
 Python notebook simulates a network of exponential integrate-and-fire (EIF) neurons arranged in a ring representing their orientation tuning preference. Connectivity between neurons also depends on tuning. There are both excitatory and inhibitory neurons. An external signal representing an oriented edge drives activity in the network.
 
 The script is a simple example using a rotating signal with increasing strength. 
-
-This model is meant to represent the activity of cortical neurons in visual cortex (area V1) in response to changing stimuli. It enables to explore the effect of different connectivity and dynamics on the neural activity leading to visual perception and image tracking.
 
 
